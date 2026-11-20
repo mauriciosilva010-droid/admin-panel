@@ -1,0 +1,16 @@
+admin-panel/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   └── Login.js
+│   │   └── Dashboard.js
+│   │   └── UserList.js
+│   │   └── ChannelList.js
+│   │   └── IptvListEditor.js
+│   ├── App.js
+│   ├── index.js
+│   └── api.js
+├── .env
+├── package.json
+└── README.md
